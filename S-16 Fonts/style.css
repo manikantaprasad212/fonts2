@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@100..900&display=swap');
+#p1{
+    font-family: "Noto Sans Kannada", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: burlywood;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Timmana&display=swap');
+#p2{
+    font-family: "Timmana", sans-serif;
+  font-weight: 500px;
+  font-style: normal; 
+}*/
+
+@font-face {
+    font-family: potti sreeramulu;
+    src: url("./fonts/Potti\ Sreeramulu\ Regular.otf");
+}
+#p2{
+    font-family: potti sreeramulu;
+    background-color: blanchedalmond;
+}
+img{
+    width:300px;
+    height:300px;
+    padding-left: 100px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(161, 232, 8);
+}
+h2{
+    text-align: center;
+    background-color: rgb(75, 5, 250);
+}
